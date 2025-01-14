@@ -270,6 +270,9 @@ This Jupyter Notebook demonstrates a basic machine learning workflow for predict
 * **Model Selection:** Choose the appropriate machine learning algorithm based on the nature of the problem and the characteristics of the data. Experiment with different algorithms to find the best model for your specific task.
 * **Hyperparameter Tuning:** Fine-tune the hyperparameters of the chosen model to optimize its performance.
 * **Cross-Validation:** Use techniques like k-fold cross-validation to get a more robust estimate of model performance.
-
 This notebook serves as a starting point for your predictive analysis projects. Remember to adapt it to your specific dataset and analysis requirements.
+
+**TASK OUTPUT**:
+![PYTHON PREDICTIVE](https://github.com/user-attachments/assets/5d62c118-79f1-41ba-b1c9-76c08d90f1ff)
+![PREDICTIVE ANALYSIS EXCEL](https://github.com/user-attachments/assets/ab5515da-f4b5-4570-82ff-522048063437)
 
